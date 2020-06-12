@@ -2,7 +2,7 @@ welcome to the cloud world
 <br />
 
 <pre>
-<?php>
+<?php
 
 print `ifconfig`;
 
