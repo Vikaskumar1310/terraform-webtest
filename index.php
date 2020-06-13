@@ -5,6 +5,6 @@ welcome to the cloud world
 <?php
 
 print `ifconfig`;
-
+print `free -m`
 ?>
 </pre>
